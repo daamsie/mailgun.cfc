@@ -30,7 +30,7 @@ component {
         forceTestMode = settings.forceTestMode,
         httpTimeout = settings.httpTimeout,
         includeRaw = settings.includeRaw,
-				webhookSigningKey = settings.webhookSigningKey
+        webhookSigningKey = settings.webhookSigningKey
       );
   }
 
